@@ -3,7 +3,7 @@
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
-            "oiaa-97\\HelloWorldPackage\\": "src/"
+            "oiaa97\\HelloWorldPackage\\": "src/"
         }
     },
     "minimum-stability": "dev",
