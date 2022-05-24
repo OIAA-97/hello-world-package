@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorldPackage;
+namespace oiaa97\HelloWorldPackage;
 
 class HelloWorld
 {
